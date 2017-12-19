@@ -46,26 +46,37 @@ Kill hermit crabs and upgrade Atk item/Def item/ Atk speed item/HP item 10 times
 ![alt text](https://i.gyazo.com/c148ee31eefdee879fe386fa6fd94699.png)
 
 Kill Meat golems and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/6615e159fcb17572ddbfc8b043f46436.png)
 
 Kill Trolls and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/5af9b3614236c28d5287ebb81d4d2691.png)
 
 Kill Bears and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/b44e9438c276685512aa6c2905e3fd15.png)
 
 Kill Treants and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/0dbf4f66eb0a25e259adfe3c5b692644.png)
 
 Kill Tauren and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/9d7b387f8b1b277a937b4cce9f03c784.png)
 
 Kill Tauren Chieften and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/194648bbdd5bad8d2dcb60e5dd721dd1.jpg)
 
 Kill Ents and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/673c69809f543eb72119469baffffcd6.png)
 
 Kill Beasts and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+![alt text](https://i.gyazo.com/4b11a740d8c1b2b14ee1dabdccb1e796.jpg)
 
 Kill Void and upgrade Atk item/Def item/HP item 3 times each.
+![alt text](https://i.gyazo.com/72b884beca1af59d1c17fe4c5032868b.png)
 
 Kill Zombies and upgrade Atk item/Def item/HP item 3 times each.
+![alt text](https://i.gyazo.com/28b22ca3db7bbb5f6bd817022918fe0c.jpg)
 
 Kill Fel hounds and upgrade Atk item/Def item/HP item 3 times each.
+![alt text](https://i.gyazo.com/c0a53cd87764d21a6e6bfc689bb25216.png)
 
 The Next boss is the Frost Dragons. To spawn them you must collect the items that are dropped by Kobolds and Lizards in the area you level up in. If you drop one of each on the shrine in the area where the Zombie/Void/Fel hound are a single frost dragon will spawn. I reccomend collecting a good amount of both of the material to spawn the dragon and then camping the dragon for a while.
 
