@@ -80,9 +80,13 @@ Kill Fel hounds and upgrade Atk item/Def item/HP item 3 times each.
 
 The Next boss is the Frost Dragons. To spawn them you must collect the items that are dropped by Kobolds and Lizards in the area you level up in. If you drop one of each on the shrine in the area where the Zombie/Void/Fel hound are a single frost dragon will spawn. I reccomend collecting a good amount of both of the material to spawn the dragon and then camping the dragon for a while.
 
+![alt text](https://i.gyazo.com/d7688361eedf17f9eeb01f10e22d9752.png)
+
 Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
+![alt text](https://i.gyazo.com/c8aae7d1778d2eec8d7e8aa841a13f96.jpg)
 
 Kill the Grim reaper until you get a new Lifesteal item. The item drops directly from him.
+![alt text](https://i.gyazo.com/f05f7cb802f9ba339954eb1a53ab3d0a.jpg)
 
 
 
