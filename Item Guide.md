@@ -58,7 +58,7 @@ The Next boss is the Frost Dragons. To spawn them you must collect the items tha
 
 Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
 
-Kill raid
+Kill the Grim reaper until you get a new Lifesteal item. The item drops directly from him.
 
 
 
