@@ -11,6 +11,7 @@ From the boss that looks like the assassin obtain the AOE item.
 ![alt text](https://i.gyazo.com/84bfabcf8eed4b05adb54a65494e0135.png)
 
 From the wraith obtain one of each item Atk item/Def item/ Atk speed item/HP item.**(The wraith can be spawned by killing the red generators under the previous boss.)**
+
 ![alt text](https://i.gyazo.com/af288e094669bedcc12c6e58f1ae8867.png)
 
 From the crab upgrade Atk item/Def item/ Atk speed item/HP item once.**(Crab may be spawned by killing the generators under the wraith generators.**
