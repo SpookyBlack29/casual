@@ -8,7 +8,7 @@ From the first boss that looks like the Knight class obtain the Lifesteal item
 
 From the boss that looks like the assassin obtain the AOE item.
 
-From the wraith obtain one of each item.**(The wraith can be spawned by killing the red generators under the previous boss.)**
+From the wraith obtain one of each item Atk item/Def item/ Atk speed item/HP item.**(The wraith can be spawned by killing the red generators under the previous boss.)**
 
 From the crab upgrade Atk item/Def item/ Atk speed item/HP item once.**(Crab may be spawned by killing the generators under the wraith generators.**
 
