@@ -6,7 +6,7 @@ I will refer to items as: Atk item/Def item/ Atk speed item/HP item/Lifesteal it
 
 From the first boss that looks like the Knight class obtain the Lifesteal item
 
-From the boss that looks like the assassin obtain the lifesteal item.
+From the boss that looks like the assassin obtain the AOE item.
 
 From the wraith obtain one of each item.**(The wraith can be spawned by killing the red generators under the previous boss.)**
 
