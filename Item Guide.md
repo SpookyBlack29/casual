@@ -38,6 +38,28 @@ Kill Trolls and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 
 Kill Bears and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 
+Kill Treants and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
+Kill Tauren and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
+Kill Tauren Chieften and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
+Kill Ents and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
+Kill Beasts and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
+Kill Void and upgrade Atk item/Def item/HP item 3 times each.
+
+Kill Zombies and upgrade Atk item/Def item/HP item 3 times each.
+
+Kill Fel hounds and upgrade Atk item/Def item/HP item 3 times each.
+
+The Next boss is the Frost Dragons. To spawn them you must collect the items that are dropped by Kobolds and Lizards in the area you level up in. If you drop one of each on the shrine in the area where the Zombie/Void/Fel hound are a single frost dragon will spawn. I reccomend collecting a good amount of both of the material to spawn the dragon and then camping the dragon for a while.
+
+Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
+
+Kill raid
+
 
 
 
