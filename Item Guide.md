@@ -18,20 +18,28 @@ Kill penguins and upgrade Atk item/Def item/ Atk speed item/HP item 10 times eac
 ![alt text](https://i.gyazo.com/bf3b3427fe13dfef228c779377dc8340.png)
 
 Kill Cirno and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/ecc7d5e297450b7af1e61719f5f50f31.png)
 
 Kill ronald and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/8102bac7f989aa2c35767b44ea11ef8b.png)
 
 Kill spongebob and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/fec70d8d36ff8176ead85f08194c4908.png)
 
 Kill Mr. Krabs and upgrade Atk upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/b8d503546631410f1428605aabf38726.png)
 
 Kill the plant and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/fb5fd16a3355092bff79acc3f2a1cc86.png)
 
 Kill murloc and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/8fb7757792b69380b50acfc25c430f4f.png)
 
 Kill Sea folk and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/14547806af7ebbe4ffd7d90b047d2810.png)
 
 Kill hermit crabs and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/c148ee31eefdee879fe386fa6fd94699.png)
 
 Kill Meat golems and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 
