@@ -69,6 +69,8 @@ Kill Ents and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 Kill Beasts and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 ![alt text](https://i.gyazo.com/4b11a740d8c1b2b14ee1dabdccb1e796.jpg)
 
+After the Beasts you should upgrade your Atk speed item into wings. Check the Wings guide.
+
 Kill Void and upgrade Atk item/Def item/HP item 3 times each.
 ![alt text](https://i.gyazo.com/72b884beca1af59d1c17fe4c5032868b.png)
 
