@@ -15,7 +15,7 @@ From the crab upgrade Atk item/Def item/ Atk speed item/HP item once.**(Crab may
 After upgrading from the crab go back to the skeleton and pudge area and obtain one of the runes that drops from the pudges. Purify the rune as you did when you tiered. Pick the rune back up and go back into the circle to upgrade your Atk Speed item.
 
 Kill penguins and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
-![alt text](https://gyazo.com/bf3b3427fe13dfef228c779377dc8340)
+![alt text](https://i.gyazo.com/bf3b3427fe13dfef228c779377dc8340.png)
 
 Kill Cirno and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 
