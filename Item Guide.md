@@ -1,4 +1,4 @@
-## Casual RPG Item Guide
+## Casual RPG Item Guide by SpookyBlack
 
 This item guide starts with items starting from the wraith boss that you spawn after hitting level 500.
 
