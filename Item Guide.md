@@ -1,5 +1,7 @@
 ## Casual RPG Item Guide by SpookyBlack
 
+Korean Command for create: -ì¡°í•©
+
 This item guide starts with items starting from the wraith boss that you spawn after hitting level 500.
 
 I will refer to items as: Atk item/Def item/ Atk speed item/HP item/Lifesteal item/ and lastly AOE item
