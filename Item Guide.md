@@ -111,6 +111,12 @@ Go to 1-2 and upgrade your weapon 20 times
 
 ![alt text](https://i.gyazo.com/57686f5722acc845abd6f6c4fd825dc3.jpg)
 
+Go to 1-4, kill this boss and collect these 3 items. Use these 3 items to upgrade your HP item 5 times.
+
+![alt text](https://i.gyazo.com/f3e1fd7efb1a9b646ec7147ea2633f67.png)
+
+![alt text](https://i.gyazo.com/d3006c41199f0c2f7e8c436a3fa0f13d.png)
+
 
 
 
