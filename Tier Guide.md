@@ -74,3 +74,19 @@ For your last tier you must now farm to 700k stats. After reaching 700k stats, i
 
 For non-skin kill this demon
 ![alt text](https://i.gyazo.com/c01fba2f1352624277387ca20f9f4bef.jpg)
+
+For skins you will have to kill boars. I have marked each boar with a color for each class. 
+
+Knight is the blue X
+
+Priest is the yellow X
+
+Assassin is the red X
+
+Monk is the green X
+
+Debuffer is the purple X
+
+Sniper is the white X
+
+![alt text](https://i.gyazo.com/a9856ef2f20ce6337f05f47dc0ed1fd2.png)
