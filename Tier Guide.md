@@ -3,6 +3,7 @@
 To reach the first Tier you must first reach level 100.
 
 The pudges and skeleton's drop one item each, collect both of them.
+
 ![alt text](https://i.gyazo.com/a109f5e9de70142b66c21d6bce8c54df.png)
 
 Take the rune looking item that drops from pudge into this purifying circle.
