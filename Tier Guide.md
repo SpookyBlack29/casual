@@ -45,16 +45,21 @@ For Knight Kill this golem
 ![alt text](https://i.gyazo.com/5cbb8ce0d14d6d1fb8ebc24b972784e7.png)
 
 For Priest kill this golem
+
 ![alt text](https://i.gyazo.com/f65ed45bda1a2eff55ff58005f533c45.jpg)
 
 For Debuffer kill this golem
+
 ![alt text](https://i.gyazo.com/e9c85a9bd641f671b7ebbacbcf54b6d9.jpg)
 
 For Sniper kill this golem
+
 ![alt text](https://i.gyazo.com/a9948c821d8505067f88349b8e9d12fb.png)
 
 For Assassin kill this golem
+
 ![alt text](https://i.gyazo.com/4c51077ff3c275022078e8c70b3de053.png)
 
 For Monk kill this golem
+
 ![alt text](https://i.gyazo.com/256b1bbf33538bfb952306514d0a5682.png)
