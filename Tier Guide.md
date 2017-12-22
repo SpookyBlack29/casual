@@ -28,3 +28,12 @@ For Assassin stand where my bag is
 
 For Monk stand where my bag is
 ![alt text](https://i.gyazo.com/6f882516aad96d531dffbe5acfc5ddaa.jpg)
+
+To reach the second tier you must have 200k BASE stats(stats from items dont count)
+
+To Gain stats you can go into this portal and choose any of the 4 locations inside.
+![alt text](https://i.gyazo.com/699f21d2538b856517e9f0834333ac0a.png)
+
+Once inside you kill either Kirby or Finn to gain stats. Kirby will give you 30 stats while Finn gives 50. I reccomend killing Kirby until you are able to 1 shot Finn as it will give you more stats.
+
+After you have reached 200k stats you must decide if you want to keep your base character model or choose a skin. The available skins for each class can see by looking in the top right corner of the map. For the second tier you will not be able to choose a skin yet, but if you wish to pick a skin later you will need to kill the golem for your class.
