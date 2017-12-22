@@ -1,6 +1,6 @@
 ## Casual RPG Wing Guide by SpookyBlack
 
-Go the the Wing Store area.(can be found in the Area Guide)
+Go the the Wing Store area.
 
 Purchase the wings with the number that you want.
 ## MAKE SURE TO PURCHASE FROM THE STORE THAT LOOKS LIKE AN ORANGE COIN, IT IS IMPORTANT THAT YOU DO IN ORDER TO FURTHER UPGRADE YOUR WINGS LATER
