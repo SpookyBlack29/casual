@@ -131,13 +131,21 @@ Go to the black bubble under 1-5 and kill the treants. Upgrade your AOE item 15 
 
 ![alt text](https://i.gyazo.com/cb1ae746b587c82ea165e0349fb3af82.jpg)
 
-Go to the black bubble under the green bubble and kill Finns. Upgrade your Atk item/Hp item/ Def item 12 times each. Upgrade your lifesteal item 5 times.
+Go to the black bubble under the green bubble and kill Finns. Upgrade your Atk item/Hp item/ Def item/Lifesteal item 12 times each.
 
 ![alt text](https://i.gyazo.com/e27963e070a12476fb9e451a9bfbd9a5.jpg)
 
 Go to the green teleporter under the black portal. Kill units there to get upgrade materials. Upgrade your AOE item 15 times. Upgrade your Atk item/ Hp item/ Def item/ Lifesteal item 3 times each.
 
 ![alt text](https://i.gyazo.com/37a27b272bc325e531d4d25ab90c49b6.jpg)
+
+Go back to the Reaper where you got the lifesteal item from. Collect the spawner items he drops and kill the wyverns that spawn from the items. Upgrade Atk item/ Hp item/ Def item/ Lifesteal item/ AOE item 10 times each.
+
+![alt text](https://i.gyazo.com/ba842e7d6ff7e2210274c0da5ca854fe.jpg)
+
+After the wyverns continue to farm in the areas in these portals, the upgrade paths should be pretty simple.
+
+![alt text](https://i.gyazo.com/554fba755f790cfab56adfd40686203a.jpg)
 
 
 
