@@ -36,7 +36,7 @@ To Gain stats you can go into this portal and choose any of the 4 locations insi
 
 Once inside you kill either Kirby or Finn to gain stats. Kirby will give you 30 stats while Finn gives 50. I reccomend killing Kirby until you are able to 1 shot Finn as it will give you more stats.
 
-After you have reached 200k stats you must decide if you want to keep your base character model or choose a skin. The available skins for each class can be seen by looking in the top right corner of the map. For the second tier you will not be able to choose a skin yet, but if you wish to pick a skin later you will need to kill the golem for your class. If you decide to stay with the base model for your class you can kill the vampire. ** Note: If you choose to go with skin your stats will be reset but you will start with +5k to your stats. If you stay with your normal model you will retain your stats.
+After you have reached 200k stats you must decide if you want to keep your base character model or choose a skin. The available skins for each class can be seen by looking in the top right corner of the map. For the second tier you will not be able to choose a skin yet, but if you wish to pick a skin later you will need to kill the golem for your class. If you decide to stay with the base model for your class you can kill the vampire. **Note: If you choose to go with skin your stats will be reset but you will start with +5k to your stats. If you stay with your normal model you will retain your stats.**
 
 If you wish to stay the base model for your class kill this vampire until you recieve his drop
 ![alt text](https://i.gyazo.com/7698c1d5cac2b1334b78901bbe7b5c88.jpg)
