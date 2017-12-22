@@ -123,6 +123,22 @@ Go to 1-5 kill this boss and collect these 3 items. Use these 3 items to upgrade
 
 ![alt text](https://i.gyazo.com/4517436297ef381fa3835551c95ac0cd.png)
 
+Go to the green bubble after 1-5 and kill the dwarf. Upgrade your weapon 10 times
+
+![alt text](https://i.gyazo.com/7fd5bdffc9a164ff6e49df4364b2d80b.png)
+
+Go to the black bubble under 1-5 and kill the treants. Upgrade your AOE item 15 times. Upgrade your Atk item 5 times.
+
+![alt text](https://i.gyazo.com/cb1ae746b587c82ea165e0349fb3af82.jpg)
+
+Go to the black bubble under the green bubble and kill Finns. Upgrade your Atk item/Hp item/ Def item 12 times each. Upgrade your lifesteal item 5 times.
+
+![alt text](https://i.gyazo.com/e27963e070a12476fb9e451a9bfbd9a5.jpg)
+
+Go to the green teleporter under the black portal. Kill units there to get upgrade materials. Upgrade your AOE item 15 times. Upgrade your Atk item/ Hp item/ Def item/ Lifesteal item 3 times each.
+
+![alt text](https://i.gyazo.com/37a27b272bc325e531d4d25ab90c49b6.jpg)
+
 
 
 
