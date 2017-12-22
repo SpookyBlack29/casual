@@ -117,6 +117,11 @@ Go to 1-4, kill this boss and collect these 3 items. Use these 3 items to upgrad
 
 ![alt text](https://i.gyazo.com/d3006c41199f0c2f7e8c436a3fa0f13d.png)
 
+Go to 1-5 kill this boss and collect these 3 items. Use these 3 items to upgrade your lifesteal item.
+
+![alt text](https://i.gyazo.com/ea4bea00a96d347ba22275d4f74220e7.jpg)
+
+![alt text](https://i.gyazo.com/4517436297ef381fa3835551c95ac0cd.png)
 
 
 
