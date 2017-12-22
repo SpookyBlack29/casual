@@ -98,3 +98,6 @@ You can see in these screen shots that the blue writing in the upgrade material'
 ![alt text](https://i.gyazo.com/6520ad181f18f464b94d2d2ef7307f94.png)
 
 ![alt text](https://i.gyazo.com/e52c3e98015787557ce77d44ae2ffb49.png)
+
+Once you have the skin that you want just walk into your classes circle again in this area
+![alt text](https://i.gyazo.com/88e2e35d8b523d480038b9d37de165fa.png)
