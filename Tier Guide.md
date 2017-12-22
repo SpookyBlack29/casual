@@ -90,3 +90,11 @@ Debuffer is the purple X
 Sniper is the white X
 
 ![alt text](https://i.gyazo.com/a9856ef2f20ce6337f05f47dc0ed1fd2.png)
+
+To choose which skin you want you will need Unifont to see korean letters. I will use knight in my example.
+
+You can see in these screen shots that the blue writing in the upgrade material's name is the exact same as the skins name. So all you need to do is keep killing the boar for your class until you get the material with the same name as the skin you want.
+
+![alt text](https://i.gyazo.com/6520ad181f18f464b94d2d2ef7307f94.png)
+
+![alt text](https://i.gyazo.com/e52c3e98015787557ce77d44ae2ffb49.png)
