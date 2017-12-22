@@ -98,6 +98,7 @@ Kill the Sniper and upgrade your AOE item.
 The next 6 area's bosses will drop their upgrade materials and somewhere nearby they will also sometimes drop spawners where if you use it around 6-8 mini's will spawn. I dont reccomend spawning more than 1 batch of them at once otherwise you will have problems because you must kill each once twice within 30 seconds or so.
 
 Go to 1-1 and kill this boss and upgrade your HP item once. Upgrade your Atk item 10 times. Upgrade your Def Item 20 times.
+
 ![alt text](https://i.gyazo.com/7b96d93e346cdbd6e0b4b37f7b27d8bc.png)
 
 Go back to the skeleton and pudge area, grab a rune from pudge and purify it like you did when you tier'd. Pick the rune back up and walk back in to upgrade your HP item.
