@@ -104,6 +104,7 @@ Go to 1-1 and kill this boss and upgrade your HP item once. Upgrade your Atk ite
 Go back to the skeleton and pudge area, grab a rune from pudge and purify it like you did when you tier'd. Pick the rune back up and walk back in to upgrade your HP item.
 
 Go to 1-2 and upgrade your weapon 20 times
+
 ![alt text](https://i.gyazo.com/cc4877cbf6e2dc78e8a36edda53a7b6b.jpg)
 
 ## Continue collecting upgrade materials in 1-2 and then collect an equal amount from this boss in 1-3 and upgrade your Def item 5 times
