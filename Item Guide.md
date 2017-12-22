@@ -92,6 +92,9 @@ Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
 Kill the Grim reaper until you get a new Lifesteal item. The item drops directly from him.
 ![alt text](https://i.gyazo.com/f05f7cb802f9ba339954eb1a53ab3d0a.jpg)
 
+Kill the Sniper and upgrade your AOE item.
+![alt text](https://i.gyazo.com/4c805d9deb57086dc8a0f70074e2ec56.png)
+
 
 
 
