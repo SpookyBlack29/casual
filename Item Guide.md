@@ -73,6 +73,9 @@ Kill Beasts and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 
 ## After the Beasts you should upgrade your Atk speed item into wings. Check the Wings guide.
 
+Kill the Grim reaper until you get a new Lifesteal item. The item drops directly from him.
+![alt text](https://i.gyazo.com/f05f7cb802f9ba339954eb1a53ab3d0a.jpg)
+
 Kill Void and upgrade Atk item/Def item/HP item 3 times each.
 ![alt text](https://i.gyazo.com/72b884beca1af59d1c17fe4c5032868b.png)
 
@@ -88,9 +91,6 @@ The Next boss is the Frost Dragons. To spawn them you must collect the items tha
 
 Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
 ![alt text](https://i.gyazo.com/c8aae7d1778d2eec8d7e8aa841a13f96.jpg)
-
-Kill the Grim reaper until you get a new Lifesteal item. The item drops directly from him.
-![alt text](https://i.gyazo.com/f05f7cb802f9ba339954eb1a53ab3d0a.jpg)
 
 Kill the Sniper and upgrade your AOE item.
 ![alt text](https://i.gyazo.com/4c805d9deb57086dc8a0f70074e2ec56.png)
