@@ -37,6 +37,7 @@ Enter this portal and kill Cirno and upgrade Atk item/Def item/ Atk speed item/H
 ![alt text](https://i.gyazo.com/ecc7d5e297450b7af1e61719f5f50f31.png)
 
 Proceed to the right of the Cirno room and take the path to the next portal and then kill Ronald and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+
 ![alt text](https://i.gyazo.com/8102bac7f989aa2c35767b44ea11ef8b.png)
 
 Enter this portal and kill Spongebob and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
@@ -52,13 +53,16 @@ Enter the portal to the left of Mr. Krabs and kill the plant and upgrade Atk ite
 ![alt text](https://i.gyazo.com/fb5fd16a3355092bff79acc3f2a1cc86.png)
 
 Enter this portal and kill the murloc and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+
 ![alt text](https://i.gyazo.com/3cab4d38e857e3ed34e64fd0b2bd18ee.png)
 ![alt text](https://i.gyazo.com/8fb7757792b69380b50acfc25c430f4f.png)
 
 Enter the portal in the murloc area and kill Sea folk and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+
 ![alt text](https://i.gyazo.com/14547806af7ebbe4ffd7d90b047d2810.png)
 
 Enter the portal in the Sea folk area and kill hermit crabs and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+
 ![alt text](https://i.gyazo.com/c148ee31eefdee879fe386fa6fd94699.png)
 
 Kill Meat golems and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
