@@ -143,11 +143,16 @@ Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
 ![alt text](https://i.gyazo.com/c8aae7d1778d2eec8d7e8aa841a13f96.jpg)
 
 
-Kill the Sniper and upgrade your AOE item.
+Enter this portal and kill the Sniper and upgrade your AOE item.
 
+![alt text](https://i.gyazo.com/2df75006016a87946aa8cac94969b5f4.png)
 ![alt text](https://i.gyazo.com/4c805d9deb57086dc8a0f70074e2ec56.png)
 
 The next 6 area's bosses will drop their upgrade materials and somewhere nearby they will also sometimes drop spawners where if you use it around 6-8 mini's will spawn.
+
+To get to these bosses type "-1" and head south to this portal.
+
+![alt text](https://i.gyazo.com/31f0eef6a6ffd2dd0b699d142eacb49d.png)
 
 Go to 1-1 and kill this boss and upgrade your HP item once. Upgrade your Atk item 10 times. Upgrade your Def Item 20 times.
 
