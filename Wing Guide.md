@@ -2,6 +2,10 @@
 
 Go the the Wing Store area.
 
+
+![alt text](https://i.gyazo.com/8836584adcef9dcb72f3beae3fe3999b.png)
+
+
 Purchase the wings with the number that you want.
 ## MAKE SURE TO PURCHASE FROM THE STORE THAT LOOKS LIKE AN ORANGE COIN, IT IS IMPORTANT THAT YOU DO IN ORDER TO FURTHER UPGRADE YOUR WINGS LATER
 
