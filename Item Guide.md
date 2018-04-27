@@ -1,4 +1,4 @@
-## Casual RPG Item Guide by SpookyBlack
+## Casual RPG Item Guide created by SpookyBlack // updated by iFailz
 
 Korean Command for create: -ì¡°í•©
 
