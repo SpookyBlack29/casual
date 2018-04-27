@@ -18,33 +18,47 @@ From the wraith obtain one of each item Atk item/Def item/ Atk speed item/HP ite
 
 From the crab upgrade Atk item/Def item/ Atk speed item/HP item once.**(Crab may be spawned by killing the generators under the wraith generators.**
 
-After upgrading from the crab go back to the skeleton and pudge area and obtain one of the runes that drops from the pudges. Purify the rune as you did when you tiered. Pick the rune back up and go back into the circle to upgrade your Atk Speed item.
+After upgrading from the crab go back to the skeleton and pudge area and obtain one of the runes that drops from the pudges. Purify the rune by walking into this circle.
+
+![alt text](https://i.gyazo.com/445a1f291e772af2755f751dedda1795.png)
+
+Pick the rune back up and go back into the circle to upgrade your Atk Speed item.
 
 Kill penguins and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 ![alt text](https://i.gyazo.com/bf3b3427fe13dfef228c779377dc8340.png)
 
-Kill Cirno and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+After you finish your Penguin upgrades, head south and then to your right to enter the next town.
+![alt text](https://i.gyazo.com/bdad39b07752873b43b6b5a833ee6f0c.png)
+
+You can teleport to the entrance of this town by typing "-1" without the quotes.
+
+Enter this portal and kill Cirno and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/5961caacf38c37be699a4e2eb85b6e75.png)
 ![alt text](https://i.gyazo.com/ecc7d5e297450b7af1e61719f5f50f31.png)
 
-Kill ronald and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Proceed to the right of the Cirno room and take the path to the next portal and then kill Ronald and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 ![alt text](https://i.gyazo.com/8102bac7f989aa2c35767b44ea11ef8b.png)
 
-Kill spongebob and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Enter this portal and kill Spongebob and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/2b3ff26d43c134974dcecabe534d8f7e.png)
 ![alt text](https://i.gyazo.com/fec70d8d36ff8176ead85f08194c4908.png)
 
-Kill Mr. Krabs and upgrade Atk upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Enter the portal in the Spongebob room and kill Mr. Krabs and upgrade Atk upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+
 ![alt text](https://i.gyazo.com/b8d503546631410f1428605aabf38726.png)
 
-Kill the plant and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Enter the portal to the left of Mr. Krabs and kill the plant and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+
 ![alt text](https://i.gyazo.com/fb5fd16a3355092bff79acc3f2a1cc86.png)
 
-Kill murloc and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Enter this portal and kill the murloc and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+![alt text](https://i.gyazo.com/3cab4d38e857e3ed34e64fd0b2bd18ee.png)
 ![alt text](https://i.gyazo.com/8fb7757792b69380b50acfc25c430f4f.png)
 
-Kill Sea folk and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Enter the portal in the murloc area and kill Sea folk and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 ![alt text](https://i.gyazo.com/14547806af7ebbe4ffd7d90b047d2810.png)
 
-Kill hermit crabs and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
+Enter the portal in the Sea folk area and kill hermit crabs and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 ![alt text](https://i.gyazo.com/c148ee31eefdee879fe386fa6fd94699.png)
 
 Kill Meat golems and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
