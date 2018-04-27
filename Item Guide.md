@@ -200,7 +200,7 @@ Go back to the Reaper where you got the lifesteal item from. Collect the spawner
 
 You can get to the wyverns by taking this portal.
 
-!alt text](https://i.gyazo.com/333c69dd50c7e1c012afaa4fd3a56f70.png)
+![alt text](https://i.gyazo.com/333c69dd50c7e1c012afaa4fd3a56f70.png)
 
 ![alt text](https://i.gyazo.com/ba842e7d6ff7e2210274c0da5ca854fe.jpg)
 
