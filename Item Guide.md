@@ -54,72 +54,106 @@ Enter the portal to the left of Mr. Krabs and kill the plant and upgrade Atk ite
 
 Enter this portal and kill the murloc and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 
+
 ![alt text](https://i.gyazo.com/3cab4d38e857e3ed34e64fd0b2bd18ee.png)
 ![alt text](https://i.gyazo.com/8fb7757792b69380b50acfc25c430f4f.png)
 
 Enter the portal in the murloc area and kill Sea folk and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 
+
 ![alt text](https://i.gyazo.com/14547806af7ebbe4ffd7d90b047d2810.png)
 
 Enter the portal in the Sea folk area and kill hermit crabs and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 
+
 ![alt text](https://i.gyazo.com/c148ee31eefdee879fe386fa6fd94699.png)
 
+## Every boss from the Meat Golems to the Beasts will be found in the Forest. You can enter the Forest using this portal.
+
+![alt text](https://i.gyazo.com/88d01c848c7d56b9f95516087221b3d5.png)
+
 Kill Meat golems and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/6615e159fcb17572ddbfc8b043f46436.png)
 
 Kill Trolls and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/5af9b3614236c28d5287ebb81d4d2691.png)
 
 Kill Bears and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/b44e9438c276685512aa6c2905e3fd15.png)
 
 Kill Treants and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/0dbf4f66eb0a25e259adfe3c5b692644.png)
 
 Kill Tauren and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/9d7b387f8b1b277a937b4cce9f03c784.png)
 
-Kill Tauren Chieften and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+Kill Tauren Chieftain and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/194648bbdd5bad8d2dcb60e5dd721dd1.jpg)
 
 Kill Ents and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/673c69809f543eb72119469baffffcd6.png)
 
 Kill Beasts and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/4b11a740d8c1b2b14ee1dabdccb1e796.jpg)
+
 
 ## After the Beasts you should upgrade your Atk speed item into wings. Check the Wings guide.
 
-Kill the Grim reaper until you get a new Lifesteal item. The item drops directly from him.
+
+Enter this portal and kill the Grim reaper until you get a new Lifesteal item. This item is blue and will drop directly from him.
+
+![alt text](https://i.gyazo.com/2b3f35ca6a96523ff615942a82195834.png)
 ![alt text](https://i.gyazo.com/f05f7cb802f9ba339954eb1a53ab3d0a.jpg)
 
+
+## The next 4 bosses will all be found in the same area.
+
+![alt text](https://i.gyazo.com/ec7a75103bc53bc559f557fdf438c53c.png)
+
 Kill Void and upgrade Atk item/Def item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/72b884beca1af59d1c17fe4c5032868b.png)
 
 Kill Zombies and upgrade Atk item/Def item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/28b22ca3db7bbb5f6bd817022918fe0c.jpg)
 
 Kill Fel hounds and upgrade Atk item/Def item/HP item 3 times each.
+
 ![alt text](https://i.gyazo.com/c0a53cd87764d21a6e6bfc689bb25216.png)
 
-The Next boss is the Frost Dragons. To spawn them you must collect the items that are dropped by Kobolds and Lizards in the area you level up in. If you drop one of each on the shrine in the area where the Zombie/Void/Fel hound are a single frost dragon will spawn. I reccomend collecting a good amount of both of the material to spawn the dragon and then camping the dragon for a while.
+The next boss is the Frost Dragons. To spawn them you must fight this tree, it is unkillable but will drop you two egg items occasionally.
+
+![alt text](https://i.gyazo.com/9a5d6d5c953ba8463dfeefb2b48a6a2f.png)
+
+If you drop one of each of the eggs on the shrine a single frost dragon will spawn. I recommend collecting a good amount of both of the material to spawn the dragon and then camping the dragon for a while.
 
 ![alt text](https://i.gyazo.com/d7688361eedf17f9eeb01f10e22d9752.png)
 
 Kill Frost Dragons and upgrade Atk item/Def item/HP item 20 times each.
+
 ![alt text](https://i.gyazo.com/c8aae7d1778d2eec8d7e8aa841a13f96.jpg)
 
+
 Kill the Sniper and upgrade your AOE item.
+
 ![alt text](https://i.gyazo.com/4c805d9deb57086dc8a0f70074e2ec56.png)
 
-The next 6 area's bosses will drop their upgrade materials and somewhere nearby they will also sometimes drop spawners where if you use it around 6-8 mini's will spawn. I dont reccomend spawning more than 1 batch of them at once otherwise you will have problems because you must kill each once twice within 30 seconds or so.
+The next 6 area's bosses will drop their upgrade materials and somewhere nearby they will also sometimes drop spawners where if you use it around 6-8 mini's will spawn.
 
 Go to 1-1 and kill this boss and upgrade your HP item once. Upgrade your Atk item 10 times. Upgrade your Def Item 20 times.
 
 ![alt text](https://i.gyazo.com/7b96d93e346cdbd6e0b4b37f7b27d8bc.png)
 
-Go back to the skeleton and pudge area, grab a rune from pudge and purify it like you did when you tier'd. Pick the rune back up and walk back in to upgrade your HP item.
+Go back to the skeleton and pudge area, grab a rune from pudge and purify it like you did when you upgraded your atk speed item. Pick the rune back up and walk back in to upgrade your HP item.
 
 Go to 1-2 and upgrade your weapon 20 times
 
