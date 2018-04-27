@@ -33,7 +33,7 @@ After you finish your Penguin upgrades, head south and then to your right to ent
 You can teleport to the entrance of this town by typing "-1" without the quotes.
 
 Enter this portal and kill Cirno and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
-![alt text](https://i.gyazo.com/5961caacf38c37be699a4e2eb85b6e75.png)
+![alt text](https://i.gyazo.com/80f183840a7862b1b17563b417fb6567.jpg)
 ![alt text](https://i.gyazo.com/ecc7d5e297450b7af1e61719f5f50f31.png)
 
 Proceed to the right of the Cirno room and take the path to the next portal and then kill Ronald and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
@@ -41,7 +41,7 @@ Proceed to the right of the Cirno room and take the path to the next portal and 
 ![alt text](https://i.gyazo.com/8102bac7f989aa2c35767b44ea11ef8b.png)
 
 Enter this portal and kill Spongebob and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
-![alt text](https://i.gyazo.com/2b3ff26d43c134974dcecabe534d8f7e.png)
+![alt text](https://i.gyazo.com/213b2dfa277d34ad0fe60addb74d89d1.jpg)
 ![alt text](https://i.gyazo.com/fec70d8d36ff8176ead85f08194c4908.png)
 
 Enter the portal in the Spongebob room and kill Mr. Krabs and upgrade Atk upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
@@ -55,7 +55,7 @@ Enter the portal to the left of Mr. Krabs and kill the plant and upgrade Atk ite
 Enter this portal and kill the murloc and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
 
 
-![alt text](https://i.gyazo.com/3cab4d38e857e3ed34e64fd0b2bd18ee.png)
+![alt text](https://i.gyazo.com/24ad517c0a04b21748b3f5dcddc746e9.jpg)
 ![alt text](https://i.gyazo.com/8fb7757792b69380b50acfc25c430f4f.png)
 
 Enter the portal in the murloc area and kill Sea folk and upgrade Atk item/Def item/ Atk speed item/HP item 10 times each.
@@ -70,7 +70,7 @@ Enter the portal in the Sea folk area and kill hermit crabs and upgrade Atk item
 
 ## Every boss from the Meat Golems to the Beasts will be found in the Forest. You can enter the Forest using this portal.
 
-![alt text](https://i.gyazo.com/88d01c848c7d56b9f95516087221b3d5.png)
+![alt text](https://i.gyazo.com/3bce069fb46d9a7672bddeb6f49771fd.png)
 
 Kill Meat golems and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 
@@ -110,13 +110,13 @@ Kill Beasts and upgrade Atk item/Def item/ Atk speed item/HP item 3 times each.
 
 Enter this portal and kill the Grim reaper until you get a new Lifesteal item. This item is blue and will drop directly from him.
 
-![alt text](https://i.gyazo.com/2b3f35ca6a96523ff615942a82195834.png)
+![alt text](https://i.gyazo.com/2a678833c96471133d03adcbbf6311c5.png)
 ![alt text](https://i.gyazo.com/f05f7cb802f9ba339954eb1a53ab3d0a.jpg)
 
 
 ## The next 4 bosses will all be found in the same area.
 
-![alt text](https://i.gyazo.com/ec7a75103bc53bc559f557fdf438c53c.png)
+![alt text](https://i.gyazo.com/8d66f142b35e146072d7e7e3e172abae.png)
 
 Kill Void and upgrade Atk item/Def item/HP item 3 times each.
 
