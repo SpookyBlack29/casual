@@ -4,7 +4,7 @@ To reach the first Tier you must first reach level 100.
 
 In the skeleton and pudge area, kill skeletons until you receive this item.
 
-![alt text](https://gyazo.com/c7b7cf85ac4ee0b059d0cb132ff6e54c)
+![alt text](https://gyazo.com/c7b7cf85ac4ee0b059d0cb132ff6e54c.png)
 
 After you get the stone from the skeletons, head back to the top right of the spawn town and walk into the circle below the house.
 
