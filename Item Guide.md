@@ -190,7 +190,7 @@ Go to the black bubble under 1-5 and kill the treants. Upgrade your AOE item 15 
 
 ![alt text](https://i.gyazo.com/cb1ae746b587c82ea165e0349fb3af82.jpg)
 
-Go to the black bubble under the green bubble and kill Finns. Upgrade your Atk item/Hp item/ Def item/Lifesteal item 12 times each. You can also upgrade your wings once here
+Go to the black bubble under the green bubble and kill Finns. Upgrade your Atk item/Hp item/ Def item 12 times each and your lifesteal item 5 times. You can also upgrade your wings once here.
 
 ![alt text](https://i.gyazo.com/e27963e070a12476fb9e451a9bfbd9a5.jpg)
 
