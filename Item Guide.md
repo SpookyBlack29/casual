@@ -194,7 +194,7 @@ Go to the black bubble under the green bubble and kill Finns. Upgrade your Atk i
 
 ![alt text](https://i.gyazo.com/e27963e070a12476fb9e451a9bfbd9a5.jpg)
 
-Go to the green teleporter under the black portal. Kill units there to get upgrade materials. Upgrade your AOE item 15 times. Upgrade your Atk item/ Hp item/ Def item/ Lifesteal item 3 times each.
+Go to the green teleporter under the black portal. Kill units there to get upgrade materials. Upgrade your AOE item 15 times. Upgrade your Lifesteal item 10 times. Upgrade your Atk item/ Hp item/ Def item 3 times each.
 
 ![alt text](https://i.gyazo.com/37a27b272bc325e531d4d25ab90c49b6.jpg)
 
