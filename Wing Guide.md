@@ -3,7 +3,7 @@
 Go the the Wing Store area.
 
 
-![alt text](https://i.gyazo.com/8836584adcef9dcb72f3beae3fe3999b.png)
+![alt text](https://i.gyazo.com/163d9cc5b31d01497b11d46963b66b03.png)
 
 
 Purchase the wings with the number that you want.
