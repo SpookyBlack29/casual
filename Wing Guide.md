@@ -8,20 +8,24 @@ Go the the Wing Store area and purchase the number of the wings that you want.
 
 ## MAKE SURE TO PURCHASE FROM THE STORE THAT LOOKS LIKE AN ORANGE COIN, IT IS IMPORTANT THAT YOU DO IN ORDER TO FURTHER UPGRADE YOUR WINGS LATER
 
-![alt text](https://i.gyazo.com/f4d860c2461ebfa78b75100b2e734231.png)
+![alt text](https://i.gyazo.com/03e01ecf6bfcec2e9ecbe3401a518752.png)
 
-![alt text](https://i.gyazo.com/20b107927dc70e565a5ff2face468394.png)
+![alt text](https://i.gyazo.com/53a2fb584f496df36b6df01e7b52a3ac.png)
 
-![alt text](https://i.gyazo.com/749d4e8e1ad178419ebf6bc022adf4da.png)
+![alt text](https://i.gyazo.com/e6c7e6a94464ca8724ade38af7d38a4d.png)
 
-![alt text](https://i.gyazo.com/052b46ad2f1fa465cab9e9c7da32ae06.png)
+![alt text](https://i.gyazo.com/eabadb9b3818b59a069f9c15d4b118ad.png)
 
-![alt text](https://i.gyazo.com/028cb17649b2255cea7b3d10fcbe55d2.png)
+![alt text](https://i.gyazo.com/ff1e75f5ef7acbf1123388410effef87.png)
 
-![alt text](https://i.gyazo.com/141235f9752f51bc9a6467d364c821d0.png)
+![alt text](https://i.gyazo.com/6989fdc9589523e89cda419f001979f0.png)
 
-![alt text](https://i.gyazo.com/e23944e4b2be332650e5ffca90023eca.png)
+![alt text](https://i.gyazo.com/1b3ec8ad2de14eb550d7bf942ece9485.png)
 
-![alt text](https://i.gyazo.com/781ff821b30ba06303938190c4957833.png)
+![alt text](https://i.gyazo.com/bc34172e94ec7ace707975f86baf7a13.png)
 
-![alt text](https://i.gyazo.com/5481f8ccb225acb905afc20576a319c0.png)
+![alt text](https://i.gyazo.com/eccc223f17f58f912f82a409bb041ec3.png)
+
+![alt text](https://i.gyazo.com/1f32595a976509c033eb9e743a9a9b11.png)
+
+![alt text](https://i.gyazo.com/c5ffde337b2197751d6cfb7bdb7a5f7d.png)
