@@ -2,6 +2,8 @@
 
 When you first start the game, be sure to stop by the dragon in town and purchase the "Z" "X" and "C" items. Also be sure to visit the potion vendor as they sell free 1000 hp pots.
 
+## Note: The starting mobs that you fight will drop a green item that you cannot pick up. It is a end-game item that you will not need. Just ignore it.
+
 
 
 ## Weapon Item Bosses
