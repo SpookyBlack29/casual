@@ -198,7 +198,7 @@ Go to the green teleporter under the black portal. Kill units there to get upgra
 
 ![alt text](https://i.gyazo.com/37a27b272bc325e531d4d25ab90c49b6.jpg)
 
-Go back to the Reaper where you got the lifesteal item from. Collect the spawner items he drops and kill the wyverns that spawn from the items. Upgrade Atk item/ Hp item/ Def item/ Lifesteal item/ AOE item 10 times each.
+Go back to the Reaper where you got the lifesteal item from. Collect the spawner items he drops and kill the wyverns that spawn from the items. Upgrade Atk item/ Hp item/ Def item/ Lifesteal item/ AOE item 10 times each. You can also upgrade your wings once.
 
 You can get to the wyverns by taking this portal.
 
