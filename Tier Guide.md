@@ -13,10 +13,15 @@ After you get the stone from the skeletons, head back to the top right of the sp
 
 To reach the second tier you must have 200k BASE stats(stats from items dont count)
 
-To Gain stats you can go into this portal and choose any of the 4 locations inside.
+To gain stats you can go into this portal
 ![alt text](https://i.gyazo.com/699f21d2538b856517e9f0834333ac0a.png)
 
-Once inside you can kill either Kirby or Finn to gain stats. Kirby will give you 30 stats while Finn gives 50. I recommend killing Kirby until you are able to 1 shot Finn as it will give you more stats.
+Once inside there are 4 different ways to gain stats.
+
+  1. Kill the Kirby to gain +100 str/agi
+  2. Kill the Finn to gain +200 str/agi
+  3. Kill the giant worm looking thing for it to drops 3-4 books that give +200 str/agi each
+  4. Attack the tree at the bottom of the stat area to have a 10% chance to get +50 str/agi on attack.
 
 After you have reached 200k stats you must decide if you want to keep your base character model or choose a skin. The available skins for each class can be seen by looking in the top right corner of the map. For the second tier you will not be able to choose a skin yet, but if you wish to pick a skin later you will need to kill the golem for your class. If you decide to stay with the base model for your class you can kill the vampire. **Note: If you choose to go with skin your stats will be reset but you will start with +5k to your stats. If you stay with your normal model you will retain your stats.**
 
