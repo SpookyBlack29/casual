@@ -1,4 +1,4 @@
-## Casual RPG Tier Guide by SpookyBlack
+## Casual RPG Tier Guide created by SpookyBlack // updated by iFailz
 
 To reach the first Tier you must first reach level 100.
 
