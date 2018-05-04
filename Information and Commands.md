@@ -1,0 +1,18 @@
+## Guide originally created by: SpookyBlack
+## Guide is now being updated by: iFailz
+
+Download the current latest version of the game here: http://cafe.naver.com/casualrpg/92136
+
+If you have any questions, need help, or are looking for people to play with... join the Korean RPGs Discord and ask around in the "Casual" channel: https://discordapp.com/invite/VgWqPxj
+
+## THIS GUIDE IS STILL A WORK IN PROGRESS. IF YOU FIND SOMETHING THAT YOU BELIEVE IS AN ERROR OR IF YOU HAVE SUGGESTIONS PLEASE MESSAGE ME ON DISCORD (austin#4210)
+
+
+
+Commands for the game:
+
+"-cam" 50-150 = Change camera zoom
+"-ì‹œì•¼" 50-200 = Change camera zoom (this command increases your max zoom to 200 compared to normal cam command)
+"-1" = After reaching level 500, will teleport you just south of the Penguin boss
+"!" = Converts 500k gold into 1 wood
+"-ì¡°í•©" = Create command
