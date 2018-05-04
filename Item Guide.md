@@ -2,8 +2,6 @@
 
 Korean Command for create: -ì¡°í•©
 
-In-game you can only go up to "-cam 150" but if you use the command "-ì‹œì•¼" you can increase your camera zoom up to 200
-
 This item guide starts with items starting from the wraith boss that you spawn after hitting level 500.
 
 I will refer to items as: Atk item/Def item/ Atk speed item/HP item/Lifesteal item/ and lastly AOE item
