@@ -11,12 +11,12 @@ If you have any questions, need help, or are looking for people to play with... 
 
 Commands for the game:
 
-"-cam" 50-150 = Change camera zoom
+" -cam " 50-150 = Change camera zoom
 
-"-ì‹œì•¼" 50-200 = Change camera zoom (this command increases your max zoom to 200 compared to normal cam command)
+" -ì‹œì•¼ " 50-200 = Change camera zoom (this command increases your max zoom to 200 compared to normal cam command)
 
-"-1" = After reaching level 500, will teleport you just south of the Penguin boss
+" -1 " = After reaching level 500, will teleport you just south of the Penguin boss
 
-"!" = Converts 500k gold into 1 wood
+" ! " = Converts 500k gold into 1 wood
 
-"-ì¡°í•©" = Create command
+" -ì¡°í•© " = Create command
