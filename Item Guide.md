@@ -204,10 +204,15 @@ You can get to the wyverns by taking this portal.
 
 ![alt text](https://i.gyazo.com/ba842e7d6ff7e2210274c0da5ca854fe.jpg)
 
-After the wyverns continue to farm in the areas in these portals, the upgrade paths should be pretty simple.
+After you finish killing the wyverns, proceed to this portal located to the east of "-1" town
 
-![alt text](https://i.gyazo.com/554fba755f790cfab56adfd40686203a.jpg)
+![alt text](https://i.gyazo.com/d4e9dc39f04cf2e10f969cc3d7bd0199.png)
 
+Kill the small purple devil fruit and use the upgrade item, your atk item and your hp item to upgrade your weapon. Upgrade your Def item /AOE item/Lifesteal item 1 time.
+
+![alt text](https://i.gyazo.com/c856f8ce961431bbab0209ad62ffec63.png)
+
+## While it is not needed immediately, you WILL need to get a new HP item and upgrade it all over again.
 
 
 
