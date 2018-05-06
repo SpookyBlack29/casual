@@ -208,11 +208,15 @@ After you finish killing the wyverns, proceed to this portal located to the east
 
 ![alt text](https://i.gyazo.com/d4e9dc39f04cf2e10f969cc3d7bd0199.png)
 
-Kill the small purple devil fruit and use the upgrade item, your atk item and your hp item to upgrade your weapon. Upgrade your Def item /AOE item/Lifesteal item 1 time.
+Kill the Small Purple Devil Fruit and use the upgrade item, your atk item and your hp item to upgrade your weapon. Upgrade your Def item /AOE item/Lifesteal item 1 time.
 
 ![alt text](https://i.gyazo.com/c856f8ce961431bbab0209ad62ffec63.png)
 
 ## While it is not needed immediately, you WILL need to get a new HP item and upgrade it all over again.
+
+Kill the Medium Purple Devil Fruit and upgrade your Atk item/Def item/AOE item/Lifesteal item 1 time each.
+
+![alt text](https://i.gyazo.com/345e0a44b874e2ef3a13c87c615de952.png)
 
 
 
