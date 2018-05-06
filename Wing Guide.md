@@ -1,5 +1,7 @@
 ## Casual RPG Wing Guide by SpookyBlack
 
+## If you have not upgraded your Attack Speed item to the end of the Forest, this upgrade will be useless for you.
+
 Go the the Wing Store area and purchase the number of the wings that you want.
 
 
